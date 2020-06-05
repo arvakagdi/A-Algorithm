@@ -1,0 +1,10 @@
+﻿  Astar.cpp
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(59,35): warning C4566: character represented by universal-character-name '\u26F0' cannot be represented in the current code page (1252)
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(59,35): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(60,31): warning C4566: character represented by universal-character-name '\U0001F697' cannot be represented in the current code page (1252)
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(61,33): warning C4566: character represented by universal-character-name '\U0001F3C1' cannot be represented in the current code page (1252)
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(62,31): warning C4566: character represented by universal-character-name '\U0001F6A6' cannot be represented in the current code page (1252)
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(94,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(95,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Astar.cpp(155,25): warning C4553: '==': result of expression not used; did you intend '='?
+  Basics.vcxproj -> C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Debug\Basics.exe

@@ -1,0 +1,2 @@
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Debug\Basics.exe
+C:\Users\arvam\OneDrive\C++Udacity\Basics\Basics\Debug\Basics.pdb
